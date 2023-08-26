@@ -21,8 +21,8 @@ The project is structured as follows:
 
 To run the Weather App locally, follow these steps:
 
-1. Clone this repository to your local machine using the following command:
-   git clone https://github.com/your-username/weather-app.git
+1. Clone this repository to your local machine using the following command:<br>
+   ```git clone https://github.com/your-username/weather-app.git```
 
 2. Open the project folder using a code editor of your choice.
 
