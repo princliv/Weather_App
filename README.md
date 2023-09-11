@@ -1,4 +1,5 @@
 # Weather App Project
+![Screenshot 2023-09-11 131928](https://github.com/princliv/Weather_App/assets/133310478/99178400-53c3-4f9c-9bdd-fcb151f3f218)
 
 This repository contains a simple **Weather App** designed to provide weather information for a given location. The app is built using HTML, CSS, and JavaScript, and it utilizes a third-party API to fetch weather data. Users can enter a location in the search bar, and the app will display the current weather conditions for that location.
 
